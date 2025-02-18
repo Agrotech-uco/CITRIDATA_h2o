@@ -1,4 +1,3 @@
-Autor...............................................................PEDRO JUAN TORRES GONZÁLEZ
 
 ######################
 #   C A R P E T A S  #
@@ -14,10 +13,6 @@ Autor...............................................................PEDRO JUAN T
 ---> models: modelos guardados (solo hay un ejemplo de prueba)
 
 
-
-
-
-
 ############
 # Reto_02
 ############
@@ -27,3 +22,18 @@ Autor...............................................................PEDRO JUAN T
 -> clean.ipynb: Reto_02 sin explicaciones, solo codigo y algunos comentarios
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Autor...............................................................PEDRO JUAN TORRES GONZÁLEZ (https://www.linkedin.com/in/pedrojtg/)
