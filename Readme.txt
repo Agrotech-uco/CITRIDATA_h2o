@@ -8,10 +8,11 @@
 
 ---> help_codes: codigos usados de ayuda, codigos en sucio, etc
 	- 0.Ejemplo_De_uso_H2O.ipynb: Ejemplo completo USO H2O
-	- 0.Series_Temporales_Explicacion.ipynb: Explicacion del manejo de Series Temporales (por Pedro Gutierrez, UCO)
+	- 0.Series_Temporales_Explicacion.ipynb: Explicacion del manejo de Series Temporales(por Pedro Gutierrez, UCO)
 	
 ---> models: modelos guardados (solo hay un ejemplo de prueba)
 
+---> data: datasets relativos a estaciones de calidad del aire
 
 ############
 # Reto_02
