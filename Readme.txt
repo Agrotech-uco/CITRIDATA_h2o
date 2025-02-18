@@ -36,4 +36,4 @@
 
 
 
-Autor...............................................................PEDRO JUAN TORRES GONZÁLEZ (https://www.linkedin.com/in/pedrojtg/)
+Autor...............................................................PEDRO JUAN TORRES GONZÁLEZ [Linkedin](https://www.linkedin.com/in/pedrojtg/)
